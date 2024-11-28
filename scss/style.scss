@@ -20,7 +20,7 @@ main {
     height: 100%;
 
     .faq_container {
-        width: 42vw;
+        width: 45.5vw;
         height: fit-content;
         border-radius: 15px;
         background-color: white;
@@ -85,6 +85,7 @@ main {
                 font-size: 18px;
                 font-family: "Work Sans", sans-serif;
                 font-weight: 600;
+                margin-right: 8px;
             }
             
     
@@ -105,7 +106,7 @@ main {
     }
 }
 
-@media screen and (max-width:764px) {
+@media screen and (max-width:700px) {
     body {
         background-image: url("../assets/images/background-pattern-mobile.svg");
         background-size: 100%;
