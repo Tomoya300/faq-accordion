@@ -87,6 +87,7 @@ main .faq_container .faq_box .faq_answer {
   line-height: 1.7;
 }
 main .faq_container .faq_box .faq_answer.open {
+  max-height: 130px;
   transition: all 0.5s ease;
 }
 
